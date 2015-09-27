@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">RBC client</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="title_activity_news_list">News</string>
+    <string name="title_settings_layout">Settings</string>
+    
+    <string name="news_category">News category:</string>
+    <string name="politics">Politics</string>
+    <string name="economics">Economics</string>
+    <string name="finances">Finances</string>
+    <string name="business">Business</string>
+    <string name="technology_and_media">Technology and Media</string>
+    <string name="own_business">Own business</string>
+    <string name="money">Money</string>
+
+    <string name="up">Up</string>
+
+    <string name="error_message">Sorry, news list can not be loaded. Please, check the connection.</string>
+</resources>
